@@ -1,0 +1,1 @@
+What is the beginning block of a website? The HTML structure. Here lies the HTML structure for the `SMILE SCHOOL PROJECT` of the `HTML ADVANCED PROJECT`
